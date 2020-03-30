@@ -1,4 +1,4 @@
-# Sarcasm_detection
+# Sarcasm Detection
 
 Recent years have seen a huge growth in the use of
 social media platforms by the people to voice their opinion about
